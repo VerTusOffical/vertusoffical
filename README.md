@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,45:11111a,100:7c3aed&text=ROMAN%20%2F%20PIKAMONOV&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=backend%20%E2%80%A2%20infrastructure%20%E2%80%A2%20networking&descAlignY=58&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,45:11111a,100:7c3aed&text=%2F%20PIKAMONOV&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=backend%20%E2%80%A2%20infrastructure%20%E2%80%A2%20networking&descAlignY=58&descSize=17&animation=fadeIn" />
 
 <a href="https://lmaodev.ru"><img src="https://img.shields.io/badge/lmaodev.ru-0b0b0f?style=for-the-badge&logo=googlechrome&logoColor=8b5cf6" /></a>
 <a href="https://cloudnw.ru"><img src="https://img.shields.io/badge/CloudNetwork-0b0b0f?style=for-the-badge&logo=cloudflare&logoColor=8b5cf6" /></a>
