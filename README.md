@@ -94,21 +94,12 @@ A lightweight communication platform focused on speed, simplicity and building t
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VerTusOffical&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6&include_all_commits=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=VerTusOffical&show_icons=true&hide_border=true&bg_color=00000000&title_color=6D28D9&icon_color=6D28D9&text_color=24292F&ring_color=6D28D9&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VerTusOffical&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6&include_all_commits=true&count_private=true" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VerTusOffical&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VerTusOffical&layout=compact&hide_border=true&bg_color=00000000&title_color=6D28D9&text_color=24292F&langs_count=8" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VerTusOffical&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" />
-</picture>
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VerTusOffical&theme=github_dark&title_color=8B5CF6&text_color=C9D1D9&bg_color=00000000&border_color=30363D&icon_color=8B5CF6&chart_color=8B5CF6&animation=draw&duration=2.8" />
 
 <br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=VerTusOffical&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&custom_title=commit%20activity" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VerTusOffical&theme=github_dark&title_color=8B5CF6&text_color=C9D1D9&bg_color=00000000&border_color=30363D&icon_color=8B5CF6&chart_color=8B5CF6&hide_logo=true&animation=load&duration=2.2" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VerTusOffical&theme=github_dark&title_color=8B5CF6&text_color=C9D1D9&bg_color=00000000&border_color=30363D&icon_color=8B5CF6&chart_color=8B5CF6&animation=load&duration=2.2" />
 
 </div>
 
