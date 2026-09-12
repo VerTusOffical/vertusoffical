@@ -34,7 +34,7 @@ build real systems > decorate another template landing page
 <tr>
 <td width="33%" valign="top">
 
-### 🛡️ Sentinel
+### <img src="./assets/readme/sentinel.svg" width="18" alt="Sentinel icon" /> Sentinel
 
 **L7 / TLS protection platform**
 
@@ -47,7 +47,7 @@ Edge filtering, traffic analysis, challenge logic, routing and infrastructure bu
 </td>
 <td width="33%" valign="top">
 
-### ☁️ CloudNetwork
+### <img src="./assets/readme/cloudnetwork.svg" width="18" alt="CloudNetwork icon" /> CloudNetwork
 
 **VPS / VDS hosting platform**
 
@@ -60,7 +60,7 @@ Hosting infrastructure, billing, automation, control panels and the boring backe
 </td>
 <td width="33%" valign="top">
 
-### 🎙️ LocalCord
+### <img src="./assets/readme/localcord.svg" width="18" alt="LocalCord icon" /> LocalCord
 
 **Voice / screen sharing platform**
 
