@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1120" height="272" viewBox="0 0 1120 272" role="img" aria-labelledby="title desc">
+  <title id="title">pikamonov — software and infrastructure</title>
+  <desc id="desc">Minimal dark banner with the pikamonov wordmark and focus areas: edge, backend and interfaces.</desc>
+  <rect width="1120" height="272" rx="12" fill="#101115"/>
+  <rect x="0" y="0" width="6" height="272" rx="3" fill="#a78bfa"/>
+  <path d="M52 60H1068" stroke="#303139" stroke-width="1"/>
+  <path d="M52 215H1068" stroke="#303139" stroke-width="1"/>
+  <text x="52" y="39" fill="#8F929D" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="1.5">SOFTWARE  /  INFRASTRUCTURE</text>
+  <circle cx="1053" cy="33" r="4" fill="#a78bfa"/>
+  <text x="50" y="145" fill="#F5F5F7" font-family="Arial, Helvetica, sans-serif" font-size="79" letter-spacing="-4.5" font-weight="700">pikamonov<tspan fill="#a78bfa">.</tspan></text>
+  <text x="53" y="185" fill="#9FA0A9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">Building for the web, and everything behind it.</text>
+  <text x="52" y="246" fill="#8F929D" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1">EDGE  /  BACKEND  /  INTERFACES</text>
+  <text x="1067" y="246" fill="#6E7079" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">VERTUSOFFICAL</text>
+</svg>
